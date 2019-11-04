@@ -1,1 +1,1 @@
-move: thunderbolt
+move: thunderbolt, spin kick
